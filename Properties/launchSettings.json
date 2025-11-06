@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "revit_aec_dm_extensibility_sample": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Autodesk\\Revit 2026\\Revit.exe"
+    }
+  }
+}

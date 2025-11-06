@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command revit-aec-dm-extensibility-sample</Text>
+    <Description>Some description for revit-aec-dm-extensibility-sample</Description>
+    <Assembly>revit_aec_dm_extensibility_sample.dll</Assembly>
+    <FullClassName>revit_aec_dm_extensibility_sample.Command</FullClassName>
+    <ClientId>102ceb81-37bc-49d1-9031-a5619abe80c2</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application revit-aec-dm-extensibility-sample</Name>
+    <Assembly>revit_aec_dm_extensibility_sample.dll</Assembly>
+    <FullClassName>revit_aec_dm_extensibility_sample.App</FullClassName>
+    <ClientId>62c10be8-15af-4e48-b531-ea44caa4de13</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
