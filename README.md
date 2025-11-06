@@ -99,7 +99,7 @@ In this sample we will use a **Door** or **Window** in a specific cloud-hosted R
 
 For details, please watch the following video:
 
-- [![https://www.youtube.com/watch?v=gwmssQRHeu0](Resources/video-thumbnail.png)](https://www.youtube.com/watch?v=gwmssQRHeu0 "Revit Addin with AEC Data Model API")
+- [![https://www.youtube.com/watch?v=gwmssQRHeu0](Resources/revit-aec-dm.png)](https://www.youtube.com/watch?v=gwmssQRHeu0 "Revit Addin with AEC Data Model API")
 
 ## Troubleshooting
 
